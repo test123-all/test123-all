@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @test123-all
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, C and some QML
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Python, some C and C++
+- 💞️ I’m looking to collaborate on //
 - 📫 How to reach me ...
 
 <!---
