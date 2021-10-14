@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @test123-all
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning more Python and sometimes tinker around with C and C++
+- 🌱 I’m currently learning more Python and I sometimes tinker around with C and C++
 - 💞️ I’m looking to collaborate on //
 - 📫 How to reach me: Via email
 
